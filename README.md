@@ -3,7 +3,6 @@
 
 I am a student of computer science year 2
 
-<h3>First App using Flutter (CHOMKA)</h3>
+<h3>First App using Flutter (Age Calculator)</h3>
 
-![Screenshot 2021-06-28 141229](https://user-images.githubusercontent.com/64300383/123595503-2f0c8b80-d81b-11eb-96a6-aceff25a425a.png)
-
+![image](https://user-images.githubusercontent.com/64300383/132112079-73b9c4ac-2852-4ecc-8827-872373a81ec2.png)
