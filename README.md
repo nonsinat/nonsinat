@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am a student of computer science year 3
+I am a student of computer science year 2
 
 <h3>First App using Flutter (Age Calculator)</h3>
 
